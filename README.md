@@ -7,8 +7,8 @@ Link: https://www.kaggle.com/furcifer/bangla-newspaper-dataset
 
 ## Models
 
-- [*] LSTM
-- [*] multi lingual BERT
-- [] XLM Roberta
-- [] Bangla BERT-base
-- [] Bangla BERT
+- [x] LSTM
+- [x] multi lingual BERT
+- [ ] XLM Roberta
+- [ ] Bangla BERT-base
+- [ ] Bangla BERT
